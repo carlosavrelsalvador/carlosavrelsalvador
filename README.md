@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋 mi nombre Carlos Vasquez</h1>
+<h1 align="center">Hola 👋 mi nombre es Carlos Vasquez</h1>
 <h3 align="center">Programador, por vocacion</h3>
 
 <h3 align="left">Contacto: <strong>carlos.vasquez.reyes@hotmail.com</strong></h3>
