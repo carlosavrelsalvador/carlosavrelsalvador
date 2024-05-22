@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋 mi nombre Carlos Vasquez</h1>
 <h3 align="center">Programador, por vocacion</h3>
 
-<h3 align="left">Connect with me:carlos.vasquez.reyes@hotmail.com</h3>
+<h3 align="left">Connect with me: <strong>carlos.vasquez.reyes@hotmail.com<strong></h3>
 <p align="left">
 </p>
 
